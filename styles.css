@@ -1,13 +1,60 @@
+/* this is how commenting is done in CSS */
+
+/* type selector */
 h1 {
   color: red;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* type selector */
+/* p {
+  background-color: purple;
+  color: yellow
+} */
+
+/* class selector */
+.chicken {
+  color: yellow;
+  background-color: purple;
+}
+
+.egg {
+  background-color: pink;
+  color: green
+}
+
+.duck {
+  background-color: orange;
+  color: blue;
+}
+
+.subheading {
+  color: red
+}
+
+.sub {
+  color: red;
+}
+
+.heading {
   background-color: blue;
 }
 
-h2 {
-  background-color: purple;
-  color: orange;
+.button-one {
+  background-color: red;
+  color: white;
+  font-size: 30px;
 }
 
-p {
-  text-align: center;
+.button-two {
+  color: white;
+  background-color: black;
+  font-size: 40px
+}
+
+.last-button {
+  font-size: 20px;
+  background-color: brown;
+  color: tomato
 }
