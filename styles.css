@@ -1,17 +1,5 @@
-/* we use . (period) for class names {} */
-
-/* we use # (hash) for id selectors */
-#burger {
-  background-color: red;
-  color: blue
-}
-
-#mustard {
-  background-color: yellow;
-  font-size: 30px
-}
-
-#ketchup {
-  color: purple;
+h1 {
+  font-size: 32px;
+  font-weight: bold;
   text-align: center;
 }
