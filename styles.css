@@ -1,60 +1,17 @@
-/* this is how commenting is done in CSS */
+/* we use . (period) for class names {} */
 
-/* type selector */
-h1 {
-  color: red;
-  text-align: center;
-  text-transform: uppercase;
-}
-
-/* type selector */
-/* p {
-  background-color: purple;
-  color: yellow
-} */
-
-/* class selector */
-.chicken {
-  color: yellow;
-  background-color: purple;
-}
-
-.egg {
-  background-color: pink;
-  color: green
-}
-
-.duck {
-  background-color: orange;
-  color: blue;
-}
-
-.subheading {
-  color: red
-}
-
-.sub {
-  color: red;
-}
-
-.heading {
-  background-color: blue;
-}
-
-.button-one {
+/* we use # (hash) for id selectors */
+#burger {
   background-color: red;
-  color: white;
-  font-size: 30px;
+  color: blue
 }
 
-.button-two {
-  color: white;
-  background-color: black;
-  font-size: 40px
+#mustard {
+  background-color: yellow;
+  font-size: 30px
 }
 
-.last-button {
-  font-size: 20px;
-  background-color: brown;
-  color: tomato
+#ketchup {
+  color: purple;
+  text-align: center;
 }
